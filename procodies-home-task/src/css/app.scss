@@ -1,1 +1,60 @@
 // app global css in SCSS form
+.mainFont {
+  font-family: 'Roboto';
+}
+
+.defaultFontColor {
+  color: #293632;
+}
+
+.enterDetailsHeader {
+  font-size: 52px;
+  font-weight: 800;
+  line-height: 55px;
+  text-align: left;
+}
+
+.enterDetailsSubheader {
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+
+.enterDetailsTitle {
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 37.5px;
+  text-align: center;
+  color: #2D473E;
+}
+
+.textBoxHeader {
+  font-family: 'Roboto';
+  font-weight: 700;
+  text-align: center;
+  line-height: normal;
+}
+
+.textBoxText {
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+}
+
+.infoPanelBottomTitle {
+  font-weight: 600;
+  // line-height: var(--BodySmallLineHeight);
+  text-align: left;
+}
+
+.infoPanelBottomText {
+  font-weight: 400;
+  line-height: 16px;
+  text-align: left;
+}
+
+.boxesFooterText {
+  font-weight: 400;
+  line-height: 16px;
+  text-align: center;
+}
